@@ -1,7 +1,7 @@
 
 ### Hey :wave:, I'm Amaan Nadeem!
 
-I'm a Full Stack Developer. A working and learning enthusiast, and an undergraduate Bachelor's of computer sciences student [@UBIT](http://www.dcsubit.com/). Currently serving as a MERN and Jamstack developer position at [Va8iveDigital](https://va8ivedigital.com/), I have been indulged with development since 2018 and worked both on national and international clients. Connect with me on [linkedIn](https://www.linkedin.com/in/amaan-nadeem-4282581a2/) for more insightful view of my work.
+I'm a Full Stack Developer. A working and learning enthusiast, and an undergraduate Bachelor's of computer sciences student [@UBIT](http://www.dcsubit.com/). Currently serving as a MERN and Jamstack developer position at [Va8iveDigital](https://va8ivedigital.com/), I have been indulged with development since 2018 and worked both with national and international clients. Connect with me on [linkedIn](https://www.linkedin.com/in/amaan-nadeem-4282581a2/) for more insightful view of my work.
 
   
 **Some of my standalone Projects:**
