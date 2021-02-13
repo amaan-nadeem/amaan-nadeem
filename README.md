@@ -6,9 +6,9 @@ I'm a Full Stack Developer. A working and learning enthusiast, and an undergradu
   
 **Some of my standalone Large-scale Projects:**
 
-- :bullettrain_side: Developed an static site of more than 7000 pages over Gatsby and Custom Node GraphQL Backend. Check it out [supersavermama](https://supersavermama.com/)
-- :airplane: Tourism platform over Gatsby and Contentful. Check it out [zhutravel](https://zhutravel.com/)
-- :robot: IOT-Based devices dashboard through which our clients can operate their home embedded iot device from anywhere in the world through our web app developed extensively over React, Redux and Nodejs. Check it out [MuxPakistan](http://mux-dashboard.herokuapp.com/)
+- :bullettrain_side: Developed an static site of more than 7000 pages over Gatsby and Custom Node GraphQL Backend. Check it out [@supersavermama](https://supersavermama.com/)
+- :airplane: Tourism platform over Gatsby and Contentful. Check it out [@zhutravel](https://zhutravel.com/)
+- :robot: IOT-Based devices dashboard through which our clients can operate their home embedded iot device from anywhere in the world through our web app developed extensively over React, Redux and Nodejs. Check it out [@MuxPakistan](http://mux-dashboard.herokuapp.com/)
 - Visually appealing static site over Gatsby for Hostjane Marketplace. Check it out [@Hostjane](https://www.hostjane.com/)
 
 **Languages and Tools i'm working on**
