@@ -11,6 +11,17 @@ I'm a Full Stack Developer. A working and learning enthusiast, and an undergradu
 - :robot: IOT-Based devices dashboard through which our clients can operate their home embedded iot device from anywhere in the world through our web app developed extensively over React, Redux and Nodejs. Check it out [@MuxPakistan](http://mux-dashboard.herokuapp.com/)
 - Visually appealing static site over Gatsby for Hostjane Marketplace. Check it out [@Hostjane](https://www.hostjane.com/)
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/amaan-nadeem">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amaan-nadeem&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaan-nadeem&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
+
+
 **Languages and Tools i'm working on**
 </br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
