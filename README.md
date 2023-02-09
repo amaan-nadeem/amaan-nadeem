@@ -6,7 +6,7 @@ A full-stack developer, passionate worker and learner. Currently working as the 
 
 - :bullettrain_side: Developed an static site of more than 7000 pages over Gatsby and Custom Node GraphQL Backend.
 - :airplane: Tourism platform over Gatsby and Contentful. Check it out [@zhutravel](https://zhutravel.com/)
-- :robot: IOT-Based devices dashboard through which our clients can operate their home embedded iot device from anywhere in the world through our web app developed extensively over React, Redux and Nodejs. Check it out [@MuxPakistan](http://mux-dashboard.herokuapp.com/)
+- :robot: IOT-Based devices dashboard through which our clients can operate their home embedded iot device from anywhere in the world through our web app developed extensively over React, Redux and Nodejs.
 - Visually appealing static site over Gatsby for Hostjane Marketplace. Check it out [@Hostjane](https://www.hostjane.com/)
 
 
