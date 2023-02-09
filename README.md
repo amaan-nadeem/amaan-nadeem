@@ -1,9 +1,7 @@
 
 ### Hey :wave:, I'm Amaan Nadeem!
+A full-stack developer, passionate worker and learner. Currently working as the CTO and co-founder of [@Expedey](http://expedey.com), a company that provides software consulting and services. web and cloud technology specialists). Since 2018, I have devoted myself to development, working with both domestic and foreign clients. Join my network on [linkedIn](https://www.linkedin.com/in/amaan-nadeem-4282581a2/) for a deeper look at my work.
 
-I'm a Full Stack Developer. A working and learning enthusiast, and an undergraduate Bachelor's of computer sciences student [@UBIT](http://www.dcsubit.com/). Currently serving as a MERN and Jamstack developer position [@Va8iveDigital](https://va8ivedigital.com/), I have been indulged with development since 2018 and worked both with national and international clients. Connect with me on [linkedIn](https://www.linkedin.com/in/amaan-nadeem-4282581a2/) for more insightful view of my work.
-
-  
 **Some of my standalone Large-scale Projects:**
 
 - :bullettrain_side: Developed an static site of more than 7000 pages over Gatsby and Custom Node GraphQL Backend. Check it out [@supersavermama](https://supersavermama.com/)
