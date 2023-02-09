@@ -1,6 +1,6 @@
 
 ### Hey :wave:, I'm Amaan Nadeem!
-A full-stack developer, passionate worker and learner. Currently working as the CTO and co-founder of [@Expedey](http://expedey.com), a company that provides software consulting and services. web and cloud technology specialists). Since 2018, I have devoted myself to development, working with both domestic and foreign clients. Join my network on [linkedIn](https://www.linkedin.com/in/amaan-nadeem-4282581a2/) for a deeper look at my work.
+A full-stack developer, passionate worker and learner. Currently working as the Co-founder and CTO [@Expedey](http://expedey.com), a company that provides software consulting and services. Specialized in Web and Cloud technologies). Since 2018, I have devoted myself to development, working with both domestic and foreign clients. Join my network on [linkedIn](https://www.linkedin.com/in/amaan-nadeem-4282581a2/) for a deeper look at my work.
 
 **Some of my standalone Large-scale Projects:**
 
